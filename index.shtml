@@ -1,0 +1,33 @@
+	<!--#include virtual="inc/header.html" -->
+		<div class="content">
+			<div class="nameblock">
+				<p>Dawg Pizza</p>
+			</div>
+
+			<div class="container">
+				<img src="img/pizza.jpg">
+				<p>Awesome wood-fired pizza with fresh ingredients baked to order. Come in and eat, or call us for delivery!</p>
+				<div class="main-sect">
+					<h2>Business Hours:</h2>
+					<p>10:00am - 11:00pm</p>
+					<p>Monday - Saturday</p>
+				</div>
+				<div class="main-sect">
+					<h2>Contact Us: </h2>
+					<p>Phone: 206-555-1212</p>
+					<p>Address: <a href="https://maps.google.com/maps?q=4306+University+Way+NE,+Seattle,+WA+98105&hl=en&ll=47.66163,-122.312336&spn=0.015464,0.042272&sll=47.613028,-122.342064&sspn=0.239777,0.195007&hnear=4306+University+Way+NE,+Seattle,+Washington+98105&t=m&z=15&iwloc=A" target="_blank">4306 University Way NE, Seattle, WA 98105</a></p>
+					<p>Email: <a href="mailto:dawgpizzaseattle@gmail.com">dawgpizzaseattle@gmail.com</a></p>
+					<p>Twitter: 
+						<a href="https://twitter.com/DawgPizzaSea" target="_blank">@DawgPizzaSea</a>
+						<a href="https://twitter.com/DawgPizzaSea" class="twitter-follow-button" data-show-count="false">Follow @DawgPizzaSea</a>
+					</p>
+				</div>
+				<div class="main-sect">
+					<iframe width="420" height="315" src="//www.youtube.com/embed/HWL__9yDu8I" frameborder="0" allowfullscreen></iframe>
+				</div>
+			</div>
+			<a href="https://github.com/cpf5193/hw2">Source Repository</a>
+		</div>
+
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+	<!--#include virtual="inc/footer.html" -->	
