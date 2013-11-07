@@ -2,14 +2,10 @@
 
 
 		<div class="content">
-			<div class="nameblock">
-				<p>Jobs at Dawg Pizza</p>
-			</div>
-
+			<h1 class='title'>Jobs at Dawg Pizza</h1>
 			<div class="container">
 				<div class="open-title">
-					<h1>Open Positions</h1>
-					<img class="hiring" src="img/hiring.png" alt="hiring-image">
+					<h2>Open Positions</h2>
 				</div>
 				<div id="carousel-jobs" class="carousel slide">
 				  <!-- Indicators -->
@@ -23,7 +19,7 @@
 				    <div class="item active">
 				      <img src="img/chef.png" alt="chef-image">
 				      <div class="carousel-caption">
-				        <h3>Delivery Drivers</h3>
+				        <h3>Kitchen Staff</h3>
 						<p><a href="mailto:dawgpizzaseattle@gmail.com">Contact Us</a> for more information on this position</p>
 				      </div>
 				    </div>
@@ -46,7 +42,7 @@
 				  </a>
 				</div>
 				<div class="main-sect">
-					<p>We'd love to have you join our amazing staff! If you have questions or would like to apply, please call or <a href="mailto:dawgpizzaseattle@gmail.com">email us</a>!</p>
+					<p class='jobs-contact'>We'd love to have you join our amazing staff! If you have questions or would like to apply, please call or <a href="mailto:dawgpizzaseattle@gmail.com">email us</a>!</p>
 				</div>	
 			</div>	
 		</div>
